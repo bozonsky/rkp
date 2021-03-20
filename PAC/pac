@@ -1,5 +1,6 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 var __PROXY__ = "PROXY 127.0.0.1:1080";
+var PROXY = 'SOCKS 127.0.0.1:1080';
 
 var __USERRULES__ = [];
 var __RULES__ = [
@@ -13,7 +14,7 @@ var __RULES__ = [
 // 2019-10-06: More 'javascript' way to interaction with main program
 // 2019-02-08: Updated to support shadowsocks-windows user rules.
 
-var proxy = __PROXY__;
+//var proxy = __PROXY__;
 var userrules = [];
 var rules = [];
 
