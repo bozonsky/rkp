@@ -6,14 +6,12 @@ var __RULES__ = [
 
   "||rutracker.org",
   "||linkedin.com",
-# Twitter
   "||twitter.com",
   "||twimg.com",
   "||t.co",
   "||twimg.com.akahost.net",
   "||twitter.map.fastly.net",
   "||twttr.com",
-#
   "||protonmail.com",
   "||lurkmore.to",
 
