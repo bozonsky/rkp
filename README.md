@@ -24,8 +24,8 @@ If your Chrome browser cannot pick up system proxy settings:
 
 1. Make sure you disable all VPN/proxy extensions.
 
-2. Right-click Chrome shortcut, Click Properties, Add this line after chrome.exe with a space: > --proxy-server="socks5://127.0.0.1:1080"
+2. Right-click Chrome shortcut, Click Properties, Add this line after chrome.exe with a space: `--proxy-server="socks5://127.0.0.1:1080" `
 	
-	eg: ` E:\Chrome\chrome.exe --proxy-server="socks5://127.0.0.1:1080" `
+	eg: `E:\Chrome\chrome.exe --proxy-server="socks5://127.0.0.1:1080"`
 
 ---
