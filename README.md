@@ -19,8 +19,7 @@
 7. q==[\*><\*]===b
 
 ---
-
-If your Chrome browser cannot pick up system proxy settings:
+**If your Chrome browser cannot pick up system proxy settings:**
 
 1. Make sure you disable all VPN/proxy extensions.
 
