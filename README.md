@@ -10,7 +10,7 @@
 3. Run Shadowsocks.exe
 
 4. Copy `ss://...` server access string to clipboard
-	- Contact your local JVD agent to get a link
+	- Contact your local JVD agent to get one of those
 
 5. Rightclick on the Shadowsocks tray icon, choose "Серверы > Импорт адреса из буфера обмена... > [OK] > [ОК] > [ОК]"
 
