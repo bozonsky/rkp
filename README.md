@@ -23,4 +23,4 @@
 
 **If your Browser cannot pick up system proxy settings:**
 
-Make sure you disable all VPN/proxy extensions.
+Make sure you disabled all VPN/proxy extensions.
