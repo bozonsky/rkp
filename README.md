@@ -19,7 +19,7 @@
 7. q==[\*><\*]===b
 
 
-# POSSIBLE ISSUES
+## POSSIBLE ISSUES
 
 **If your Chrome browser cannot pick up system proxy settings:**
 
