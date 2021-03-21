@@ -5,7 +5,7 @@ var __USERRULES__ = [];
 var __RULES__ = [
 
   "||rutracker.org",
-  "||linkedin.com",  
+  "||linkedin.com",
   "||twitter.com",
   "||twimg.com",
   "||t.co",
