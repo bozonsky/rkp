@@ -1,7 +1,7 @@
 var __PROXY__= "PROXY 127.0.0.1:1080;"
 var __USERRULES__ = [];
 
-//https://adblockplus.org/en/filter-cheatsheet
+// https://adblockplus.org/en/filter-cheatsheet
 var __RULES__ = [
 
   "||rutracker.org",
