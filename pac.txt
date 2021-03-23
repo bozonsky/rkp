@@ -21,12 +21,12 @@ var __RULES__ = [
   "||pokerstars.eu",
 //
   "||lostfilm.tv",
-  "||filmhd1080.net",
   "||hdkinozor.ru",
   "||kinotan.ru",
   "||tracktor.in",
   "||retre.org",
-  "||turboserial.net"
+  "||turboserial.net",
+  "||185.85.123.22",
 
 ];
 
